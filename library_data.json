@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Dracula",
+        "author": "Dracula",
+        "year": "1965",
+        "status": "available"
+    },
+    {
+        "id": 2,
+        "title": "вкфсгдф",
+        "author": "пппп",
+        "year": "1956",
+        "status": "available"
+    },
+    {
+        "id": 3,
+        "title": "neeer",
+        "author": "1445",
+        "year": "1445",
+        "status": "available"
+    }
+]
